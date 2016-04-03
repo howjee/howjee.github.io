@@ -18,5 +18,8 @@ twitter_username:
 github_username:  howjee
 
 # Build settings
-markdown: kramdown
+markdown:    kramdown                                                           
+kramdown:                                                                       
+   input: GFM
+   hard_wrap: false
 show_drafts: true

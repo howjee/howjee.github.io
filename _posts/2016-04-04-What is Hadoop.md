@@ -1,3 +1,12 @@
+---
+
+layout: post
+
+title: Hadoop相关内容
+
+---
+
+
 1.到底什么是Hadoop？
 ------
 要理解什么是Hadoop，[Hadoop官网](http://hadoop.apache.org/)对Hadoop介绍如下摘要所示：
