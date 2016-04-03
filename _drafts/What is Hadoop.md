@@ -1,4 +1,4 @@
-1. 到底什么是Hadoop？
+1.到底什么是Hadoop？
 ------
 要理解什么是Hadoop，[Hadoop官网](http://hadoop.apache.org/)对Hadoop介绍如下摘要所示：
 
@@ -11,15 +11,15 @@
 - 集群中的每台既是存储节点也是计算节点，也就是说，Hadoop分布式计算思想可以简单理解成：移动计算比移动数据更有效
 - 高可靠性：具有能够检测和处理应用层错误的能力
 
-2. Hadoop包含的主要模块
----
+2.Hadoop包含的主要模块
+-----
 - Hadoop Common: The common utilities that support the other Hadoop modules.
 - Hadoop Distributed File System (HDFS™): A distributed file system that provides high-throughput access to application data.
 - Hadoop YARN: A framework for job scheduling and cluster resource management.
 - Hadoop MapReduce: A YARN-based system for parallel processing of large data sets.
 
 3.Hadoop生态系统
----
+-----
 用于存储海量数据并从中获取洞察力的开源框架
 
 

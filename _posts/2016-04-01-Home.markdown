@@ -6,4 +6,4 @@ title: Hadoop相关内容
 
 ---
 
-1. [什么是Hadoop](http://127.0.0.1:4000/jekyll/update/2016/04/01/welcome-to-jekyll.html)
+1. [什么是Hadoop](/_drafts/What%20is%20Hadoop.md)
