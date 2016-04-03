@@ -19,3 +19,4 @@ github_username:  howjee
 
 # Build settings
 markdown: kramdown
+show_drafts: true
