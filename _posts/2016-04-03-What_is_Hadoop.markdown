@@ -8,7 +8,10 @@ title: what is hadoop
 
 
 1.到底什么是Hadoop？
-------
+-----
+
+-----
+
 要理解什么是Hadoop，[Hadoop官网](http://hadoop.apache.org/)对Hadoop介绍如下摘要所示：
 
 >The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures.
@@ -22,6 +25,8 @@ title: what is hadoop
 
 2.Hadoop包含的主要模块
 -----
+
+-----
 - Hadoop Common: The common utilities that support the other Hadoop modules.
 - Hadoop Distributed File System (HDFS™): A distributed file system that provides high-throughput access to application data.
 - Hadoop YARN: A framework for job scheduling and cluster resource management.
@@ -29,7 +34,9 @@ title: what is hadoop
 
 3.Hadoop生态系统
 -----
-用于存储海量数据并从中获取洞察力的开源框架
+
+-----
+    用于存储海量数据并从中获取洞察力的开源框架
 
 
 大量 Apache Software Foundation 项目构成了企业部署、集成和使用 Hadoop 所需的服务。这些项目中的每一个都经过部署，提供明确的功能，都有自己的开发人员群体和各自的发布周期。
