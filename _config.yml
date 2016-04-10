@@ -1,21 +1,39 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: 飘三叶的博客
-email: your-email@domain.com
+title: Howjee的个人博客
+email: 617263xxx@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  howjee
+  Howjee的博客
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yansu.org" # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+
+# Social account
+twitter: masonsuyan
+# weibo:    ID
+github: howjee
+# codepen:  username
+# dribbble: username
+
+# avatar头像及Favicon
+avatar: http://wshy.joyme.com/images/wshy/f/fb/10104_big.png.pvr.ccz.png
+favicon: 
+
+# disqus 设置
+disqus:
+  shortname: howjee
+
+# google analytics 设置
+ga:
+  id: UA-54767140-1
+  url: yansu.org
 
 # Build settings
+permalink: /:year/:month/:day/:title.html
 markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed
