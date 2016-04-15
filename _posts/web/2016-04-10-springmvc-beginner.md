@@ -7,7 +7,8 @@ keywords: SpringMVC
 description: 
 ---
 
-##创建SpringMVC项目##
+创建SpringMVC项目
+---
 
 步骤1：创建Web项目
 
@@ -69,7 +70,8 @@ description:
 
 步骤6：结果展示。输入：`Http://localhost:8080/HelloController`。页面显示`Hello lk!`字符串。
 
-#内容扩展1：接收路径参数#
+内容扩展1：接收路径参数
+---
 
 路径参数：将参数写在请求路径中传递。可以用来做伪静态
 
@@ -97,7 +99,8 @@ description:
 
 步骤3：在浏览器中输入：`Http://localhost:8080/HelloController/page/xingming/nianling`
 
-#内容扩展2：接收url参数#
+内容扩展2：接收url参数
+---
 
 接收url参数：按照正常get、post请求接收参数
 
@@ -125,7 +128,8 @@ description:
 
 步骤3：在浏览器中输入：`Http://localhost:8080/HelloController/demo2?name=xingming&age=nianling`
 
-#内容扩展3：接收表单数据#
+内容扩展3：接收表单数据
+---
 
 接收表单参数：获取html中表单提交数据，响应请求
 
